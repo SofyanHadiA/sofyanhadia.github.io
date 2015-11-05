@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post
 title: Welcome!
 categories: [welcome]
-tags: []
+tags: [welcome, hello]
 fullview: true
 comments: true
 ---
