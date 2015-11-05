@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Welcome!
 categories: [welcome]
 tags: []
