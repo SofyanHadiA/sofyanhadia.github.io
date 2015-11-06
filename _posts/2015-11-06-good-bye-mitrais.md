@@ -18,6 +18,6 @@ Setelah menjalani pendidikan militer di Bali, next chapter is Jogja. Baru aja sa
 Gw sempet memutuskan untuk menghabiskan karir Mitrais yang sudah kayak keluarga buat gw. Tapi, sayangnya keluarga gw yang aseli dan sedarah memerlukan gw, memerlukan kehadiran gw. Panti Asuhan yang udah dibangun keluarga gw sekarang nggak beroperasi lagi, padahal udah berdiri lebih lama dari umur gw. Kampung halaman ngalamin krisis mental dan ekonomi. Ini yang memaksa gw untuk memutuskan pulang kampung dan bertindak. Walaupun sebenernya gw sadar banget mengenai potensi karir yang bisa gw bangun di Jogja.
 
 <h4>Good bye Mitrais</h4>
-Akhir kata, buat temen-temen Mitrais terutama Pak Argo, Mas Anang, Mas Ajis, Mas Pahrul, Mamik Dzaki, Mas Sulton, dan yang nggak sempet ke sebut disini, maapin gw yah, maapin kebodohan-kebodohan gw, dan kalo memang ada yang ingin disampaikan silahkan kirim-kirim email ke sofyan.h.ahmad@gmail.com atau add skype gw live:sofyan.h.ahmad@gmail.com.
+Akhir kata, buat temen-temen Mitrais terutama Pak Argo, Mas Anang, Mas Ajis, Mas Pahrul, Mamik Dzaki, Mas Sulton, dan yang nggak sempet ke sebut disini, maapin gw yah, maapin kebodohan-kebodohan gw, dan kalo memang ada yang ingin disampaikan silahkan kirim-kirim email ke gw. Silahkan check sidebar untuk contact listnya.
 
 Terimakasih Mitrais, wish u all the best.
