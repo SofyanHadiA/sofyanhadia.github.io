@@ -12,13 +12,12 @@
 <div id="bio" class="text-center">
 	{{ site.author.bio }}
 </div>
+<br/>
 {% endif %}
 
 <div id="contact-list" class="text-center">
 	{% if site.author.skype %}
-		<li>
-			<label><i class="fa fa-skype fa-lg"></i>  {{ site.author.skype }}</label>
-		</li>
+		<div><i class="fa fa-skype fa-lg"></i>  {{ site.author.skype }}</div>
 	{% endif %}
 	<ul class="list-unstyled list-inline">
 		{% if site.author.github %}
