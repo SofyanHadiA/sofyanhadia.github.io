@@ -20,4 +20,7 @@ Gw sempet memutuskan untuk menghabiskan karir Mitrais yang sudah kayak keluarga 
 <h4>Good bye Mitrais</h4>
 Akhir kata, buat temen-temen Mitrais terutama Pak Argo, Mas Anang, Mas Ajis, Mas Pahrul, Mamik Dzaki, Mas Sulton, dan yang nggak sempet ke sebut disini, maapin gw yah, maapin kebodohan-kebodohan gw, dan kalo memang ada yang ingin disampaikan silahkan kirim-kirim email ke gw. Silahkan check sidebar untuk contact listnya.
 
+Oh ya hampir lupa, titipan:
+"Thanks all for the supporting. Esspecially Pungkas which told me a lot about all the solution in .NET, Data Access, .NET essential, Design pattern, OOP, and a lot lot more which help me to be a good AP"
+
 Terimakasih Mitrais, wish u all the best.
