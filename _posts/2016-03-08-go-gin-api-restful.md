@@ -12,12 +12,14 @@ I will give a walk-through of how to create simple microservice in Go using Gin 
 
 ### Getting Started
 First step is to wire up a foundation, we will create following items:
-- server cli: entry point of the application
-- service controller: managing service, wiring up routes.
-- api model: data model shared by the server, the client, and also database
-- resource: grouping oh handlers to manage api requests
-- http client: simple sample of http client
-- unit test: you know what it is :)
+<ul>
+<li>server cli: entry point of the application.</li>
+<li>service controller: managing service, wiring up routes.</li>
+<li>api model: data model shared by the server, the client, and also database.</li>
+<li>resource: grouping oh handlers to manage api requests.</li>
+<li>http client: simple sample of http client.</li>
+<li>unit test: you know what it is :).</li>
+</ul>
 
 ### Server CLI
 For now lets try to keep it simple. We just need to put run command here and some basic configuration and dependecy injection
