@@ -3,7 +3,7 @@ layout: post
 title: Good Bye Mitrais!
 categories: [work]
 tags: [work, experience]
-fullview: false
+fullview: true
 comments: true
 ---
 
