@@ -21,7 +21,7 @@ First step is to wire up a foundation, we will create following items:
 
 ### Server CLI
 For now lets try to keep it simple. We just need to put run command here and some basic configuration and dependecy injection
-```
+```go
 func main() {
     // not much here; it'll grow as we externalize config and add options
     svc := service.TodoService{}
