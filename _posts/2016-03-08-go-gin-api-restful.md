@@ -1,3 +1,12 @@
+---
+layout: post
+title: Microservices in Go with Gin
+categories: [go]
+tags: [go, programming, rest, api, microservice, gin]
+fullview: false
+comments: true
+---
+
 Microservices are new ways to achieve many cool things, but actually it was not really new. Tech giant like Google, Facebook, and Amazon already use microservices for a years. Microservices is a way to take encapsualtion and application abstraction to the next level. By implementing this pattern system components can be developed in isolation, diffrent machine, diffrent language, keep sparation of concern and allow for each component tob deployed in isolation. As an instance when there is a component fail, we can fix it just by take the machine running the component down and deploy another machine running it. 
 I will give a walk-through of how to create simple microservice in Go using Gin framework.
 
