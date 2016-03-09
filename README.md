@@ -1,4 +1,2 @@
-My Blog
-=====
-
-My place to share all share-able things.ss
+## My personal public blog
+A place to share all share-able things.
