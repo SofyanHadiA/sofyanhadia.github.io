@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Go Micro Workflow
+title: My Go Micro Workflow - Setup
 categories: [go]
 tags: [go, programming, rest, api, microservice, gin]
 fullview: false
