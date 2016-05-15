@@ -1,3 +1,12 @@
+---
+layout: post
+title: My Go Micro Workflow
+categories: [go]
+tags: [go, programming, rest, api, microservice, gin]
+fullview: false
+comments: true
+---
+
 I'm using go micro now, and here is my workflow.
 
 I have a cloud ide here : `https://c9.io/sofyan_a`. After I spawn a new ubuntu machine, then the next step is:
