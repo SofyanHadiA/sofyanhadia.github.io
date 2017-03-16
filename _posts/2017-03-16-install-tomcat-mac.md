@@ -1,3 +1,12 @@
+---
+layout: post
+title: Install Apache Tomcat on Mac OS X
+categories: [tomcat]
+tags: [tomcat, programming, apache]
+fullview: false
+comments: true
+---
+
 # Install Apache Tomcat on Mac OS X
 
 The easiest way to install and configure an Apache Tomcat server on a mac is using the open-source homebrew package management suite. If you’re not already using homebrew, check out its popularity on GitHub. It makes open-source package management on mac 100 times cleaner than doing it manually (everything is stored in one place, packages are easy to remove, upgrade and find configs for).
